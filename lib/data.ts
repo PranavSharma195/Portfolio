@@ -52,7 +52,7 @@ export const defaultData: PortfolioData = {
     subtitle: "Representing Nepal with discipline and consistency",
     description:
       "A dedicated table tennis player from Nepal focused on steady progress, disciplined training, and thoughtful performance across national and international stages.",
-    image: "/hero.jpg",
+    image: "/susmita.jpg",
   },
   about: {
     dob: "16th February 2008",
@@ -65,7 +65,7 @@ export const defaultData: PortfolioData = {
     location: "Rai Chowk, Nagarjun-02, Kathmandu, Nepal",
   },
   media: {
-    hero: "/hero.jpg",
+    hero: "/susmita.jpg",
     about: "/susmita-action.jpg",
     contact: "/susmita-serve.jpg",
   },
