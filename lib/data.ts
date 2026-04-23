@@ -61,7 +61,7 @@ export const defaultData: PortfolioData = {
     countriesVisited: "India, China, Qatar",
     email: "susmii014@gmail.com",
     phone: "+977 9843345061",
-    instagram: "@susmii014",
+    instagram: "@susmita_khadka4",
     location: "Rai Chowk, Nagarjun-02, Kathmandu, Nepal",
   },
   media: {

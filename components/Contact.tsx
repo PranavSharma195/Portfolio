@@ -187,7 +187,7 @@ export default function Contact({ data }: Props) {
             >
               <p className="text-xs font-semibold uppercase tracking-[0.22em] mb-2" style={{ color: "var(--ink2)" }}>Instagram</p>
               <p className="text-lg font-semibold" style={{ color: "var(--ink)" }}>{about.instagram}</p>
-              <p className="text-sm mt-2" style={{ color: "var(--ink2)" }}>Editable from admin settings.</p>
+              <p className="text-sm mt-2" style={{ color: "var(--ink2)" }}>Contact me via Instagram.</p>
             </a>
           </div>
         </div>
