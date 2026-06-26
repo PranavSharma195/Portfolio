@@ -84,6 +84,16 @@ export const defaultData: PortfolioData = {
   ],
   achievements: [
     {
+      id: "a33", date: "2026", type: "national",
+      event: "42nd National Table Tennis Championship 2026",
+      result: "Women's Team – Gold 🥇"
+    },
+    {
+      id: "a34", date: "2026", type: "national",
+      event: "42nd National Table Tennis Championship 2026",
+      result: "National Ranking – 4th Place 🏓"
+    },
+    {
       id: "a1", date: "28 Jun–1 Jul 2025", type: "international",
       event: "2nd Yangtze River Cup 2025 – YueYang Olympic Sports Stadium, Hunan, China",
       result: "Participant"
